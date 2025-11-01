@@ -16,7 +16,7 @@
         <!-- Title and Tagline -->
         <div class="text-center">
             <h1 class="fw-bold mb-2" style="font-size: 2.75rem; font-family: 'Poppins', sans-serif; color: #0d6efd;">
-                <span style="color: #0077b6; font-family: AKbalthom Superhero;">RITHY V2 
+                <span style="color: #0077b6; font-family: AKbalthom Superhero;">RITHY V3
                     <span style="font-family: Cooper Black">FOOD COURT</span>
                 </span>
             </h1>
