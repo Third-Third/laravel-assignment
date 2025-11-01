@@ -17,7 +17,7 @@
         <div class="text-center">
             <h1 class="fw-bold mb-2" style="font-size: 2.75rem; font-family: 'Poppins', sans-serif; color: #0d6efd;">
                 <span style="color: #0077b6; font-family: AKbalthom Superhero;">RITHY 
-                    <span style="font-family: Cooper Black">Food Court</span>
+                    <span style="font-family: Cooper Black">FOOD COURT</span>
                 </span>
             </h1>
             <p class="text-secondary" style="font-size: 1.1rem; font-family: 'Quicksand', sans-serif;">
