@@ -107,7 +107,7 @@
 @if(request()->routeIs('items.search'))
 <script>
     if (window.performance && window.performance.getEntriesByType("navigation")[0].type === "reload") {
-        window.location.href = "http://54.164.252.3//items";
+        window.location.href = "http://54.164.252.3/items";
     }
 </script>
 @endif
