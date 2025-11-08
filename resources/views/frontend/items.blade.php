@@ -17,7 +17,7 @@
         <div class="text-center">
             <h1 class="fw-bold mb-2" style="font-size: 2.75rem; font-family: 'Poppins', sans-serif; color: #0d6efd;">
                 <span style="color: #0077b6; font-family: AKbalthom Superhero;">NPIT
-                    <span style="font-family: Cooper Black">PONLORK</span>
+                    <span style="font-family: Cooper Black">RITHY</span>
                 </span>
             </h1>
             <p class="text-secondary" style="font-size: 1.1rem; font-family: 'Quicksand', sans-serif;">
@@ -107,7 +107,7 @@
 @if(request()->routeIs('items.search'))
 <script>
     if (window.performance && window.performance.getEntriesByType("navigation")[0].type === "reload") {
-        window.location.href = "http://127.0.0.1:8000/items";
+        window.location.href = "http://54.164.252.3//items";
     }
 </script>
 @endif
